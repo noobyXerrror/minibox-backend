@@ -11,9 +11,12 @@ A lightweight **payroll and attendance** system inspired by SalaryBox — built 
 - ✅ Django setup with PostgreSQL
 - ✅ Environment variable support
 - ✅ Admin dashboard via Django Admin
-- 🚧 Attendance model
-- 🚧 Payroll generation logic
-- 🚧 REST API for employees & salaries
+- ✅ Employee model with user linking
+- ✅ API to create employees (only non-employee users appear in dropdown)
+- ✅ HR can manually type email to create employee
+- 🚧 Attendance model (in progress)
+- 🚧 Payroll generation logic (**coming soon**)
+- 🚧 REST API for salaries
 
 ---
 
