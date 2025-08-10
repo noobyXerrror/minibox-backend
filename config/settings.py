@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure--i%et1+u5!y92*8&-(9oigsvv6676@j=%u8-a02oy3_-9e1pmb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'minibox-backend.onrender.com',]
 
 
 # Application definition
